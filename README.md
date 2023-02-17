@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeoCoder6 
 - 👀 I’m interested in learning about new emerging technologies and being healthy
-- 🌱 I’m currently learning to python 
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... send me a message
 
