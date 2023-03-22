@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NeoCoder6 
+- 👋 Hi, I’m a Software Developer who is passionate about tech
 - 👀 I’m interested in learning about new emerging technologies and being healthy
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
