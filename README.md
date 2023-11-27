@@ -1,10 +1,29 @@
-- 👋 Hi, I’m a Software Developer who is passionate about tech
-- 👀 I’m interested in learning about new emerging technologies and being healthy
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... send me a message
+I'm a Full Stack Software Engineer currently working for Immersed Cyber Security Training. I developed a passion for software during my career in the cyber security field, after leaving the military I decided to take the leap into tech to challenge myself and learn more about new emerging technologies. I'm a life long learner who stays relevant in todays fast paced ever changing world.
 
-<!---
-NeoCoder6/NeoCoder6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Professional Skills:
+⭐️C#
+⭐️JavaScript
+⭐️Reactjs
+⭐️ADO.Net Core
+⭐️HTML
+⭐️CSS
+⭐️Web API Development
+⭐️jQuery
+⭐️MySQL
+⭐️T-SQL
+⭐️Postman
+⭐️Bootstrap
+⭐️Debugging
+⭐️Git
+⭐️GitHub
+⭐️RESTful API
+⭐️AGILE methodologies
+⭐️Object-Oriented Programming (OOP)
+⭐️Relational database knowledge
+⭐️Team Player
+⭐️SQL Server (Scripting, Diagrams, Stored Procedures, Joins, FK Relationships)
+⭐️Ability to quickly learn new technologies and business functions.
+⭐️Knowledge of the full software development life cycle.
+⭐️Ability to work in a fast paced environment with minimal supervision.
+⭐️Life long learner and strong work ethic
