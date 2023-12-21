@@ -7,7 +7,7 @@
 I'm a Full Stack Software Engineer currently working for Immersed Cyber Security Training. I developed a passion for software during my career in the cyber security field, after leaving the military I decided to take the leap into tech to challenge myself and learn more about new emerging technologies. I'm a life long learner who stays relevant in todays fast paced ever changing world.
 
 <p align="center">
- <a href="https://www.youtube.com/c/PaulTheDevCodes?sub_confirmation=1">
+ <a href="https://www.youtube.com/channel/paulthedevcodes?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UChmj7vC8SzaLjeso6uTXEqg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a>  
   <a href="https://github.com/NeoCoder6/Simple-View-Counter">  
     <img alt="views" title="GitHub profile views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UChmj7vC8SzaLjeso6uTXEqg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
