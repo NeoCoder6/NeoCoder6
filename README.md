@@ -4,7 +4,7 @@
 ** 'Developer and Security Professional' **
 
 
-I'm a Full Stack Software Engineer currently working for Immersed Cyber Security Training. I developed a passion for software during my career in the cyber security field, after leaving the military I decided to take the leap into tech to challenge myself and learn more about new emerging technologies. I'm a life long learner who stays relevant in todays fast paced ever changing world.
+I'm a Full Stack Software Engineer currently working for Immersed Cyber Security Training. I developed a passion for software during my career in the cyber security field, after leaving I decided to take the leap into tech to challenge myself and learn more about new emerging technologies. I'm a life long learner who stays relevant in todays fast paced ever changing world.
 
 <p align="center">
  <a href="https://www.youtube.com/channel/paulthedevcodes?sub_confirmation=1">
